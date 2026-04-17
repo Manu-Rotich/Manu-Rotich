@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m Manu.
-A data-driven enthusiast passionate about transforming raw data into actionable insights. I thrive on uncovering hidden patterns and building robust models to solve complex problems.
+-  I thrive on uncovering hidden patterns and building robust models to solve complex problems.
 - # I'm interested in: 
 - Developing innovative data-driven solutions for real-world challenges.
 - Exploring the intersection of machine learning and domain expertise.
